@@ -5,10 +5,10 @@
 
 ## I'm a Digital Marketer & Business Owner, Ex-Developer!!
 
-- 🏢 I am founder of [101infotech][101infotech]
+- 🏢 I am founder of Saubhagya Group
 - 🌱 I’m currently learning
 - 👯 I’m looking to improve my own skills and help other to improve theirs
-- 📫 How to reach me: slaure354@gmail.com
+- 📫 How to reach me: sagar@saubhagyagroup.com
 - ⚡ Fun fact: I love to listen music and interested in buisness and entrepreneurship.
 
 <!-- ### Spotify Playing 🎧
